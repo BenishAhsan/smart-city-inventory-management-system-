@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "category": "Electronics",
+            "id": 3603,
+            "name": "Handheld garment steamer",
+            "price": 18899.0,
+            "quantity": 2
+        },
+        {
+            "category": "Electronics",
+            "id": 2000,
+            "name": "Philips Airfryer",
+            "price": 49999.0,
+            "quantity": 14
+        },
+        {
+            "category": "electronics",
+            "id": 1234,
+            "name": "Samsung",
+            "price": 78000.0,
+            "quantity": 12
+        },
+        {
+            "category": "Electronics",
+            "id": 345,
+            "name": "Haier Inverter",
+            "price": 140500.0,
+            "quantity": 5
+        }
+    ]
+}

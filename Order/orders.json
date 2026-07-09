@@ -1,0 +1,10 @@
+{
+    "orders": [
+        {
+            "customer": "Alice",
+            "product": "Laptop",
+            "quantity": 1,
+            "total": 75000.0
+        }
+    ]
+}
